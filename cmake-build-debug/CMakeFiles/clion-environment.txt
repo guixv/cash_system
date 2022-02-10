@@ -1,0 +1,4 @@
+ToolSet: 3.20@D:\Program Files\CLion 2018.2.5\MinGW
+Options: 
+
+Options:
